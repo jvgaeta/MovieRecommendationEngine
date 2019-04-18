@@ -1,0 +1,29 @@
+results
+
+knn
+151 neighbors
+80,000 train, 20,000 test splits
+
+Making predictions for the 1-th fold
+Computing Accuracy for predictions
+Accuracy for 1-th fold: 36.445
+Naive Accuracy for 1-th fold: 33.89
+Making predictions for the 2-th fold
+Computing Accuracy for predictions
+Accuracy for 2-th fold: 37.38
+Naive Accuracy for 2-th fold: 34.4
+Making predictions for the 3-th fold
+Computing Accuracy for predictions
+Accuracy for 3-th fold: 38.185
+Naive Accuracy for 3-th fold: 34.655
+Making predictions for the 4-th fold
+Computing Accuracy for predictions
+Accuracy for 4-th fold: 37.105
+Naive Accuracy for 4-th fold: 33.825
+Making predictions for the 5-th fold
+Computing Accuracy for predictions
+Accuracy for 5-th fold: 37.33
+Naive Accuracy for 5-th fold: 34.1
+Total accuracy of our predictions: 37.289
+Accuracy of the mean rating: 34.174
+Time for KNN and Accuracy Measure: 2817.05180383 seconds
